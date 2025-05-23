@@ -1,0 +1,21 @@
+{
+  "name": "solana-agent-kit-v2-example",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@langchain/core": "^0.3.57",
+    "@langchain/langgraph": "^0.2.73",
+    "@langchain/openai": "^0.5.11",
+    "@solana-agent-kit/plugin-nft": "^2.0.4",
+    "@solana/web3.js": "^1.98.2",
+    "bs58": "^6.0.0",
+    "dotenv": "^16.5.0",
+    "solana-agent-kit": "^2.0.4"
+  }
+}

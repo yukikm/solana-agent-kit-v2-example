@@ -1,0 +1,15 @@
+{
+    "name": "morning",
+    "symbol": "MORNING",
+    "description": "good morning",
+    "image": "https://en.wikipedia.org/wiki/Morning#/media/File:Morning,_just_after_sunrise,_Namibia.jpg",
+    "external_url": "https://en.wikipedia.org/wiki/Morning",
+    "properties": {
+        "files": [
+            {
+                "uri": "https://en.wikipedia.org/wiki/Morning#/media/File:Morning,_just_after_sunrise,_Namibia.jpg",
+                "type": "image/jpg"
+            }
+        ]
+    }
+}
